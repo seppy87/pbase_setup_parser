@@ -37,30 +37,51 @@ COMMANDS in INSTRUCTION FILE:
 Format:write||TARGET||TEXT
 example:write||cout||TEXT TO DISPLAY
 
-1. pget - Downloads File from the Internet
-1.1. <outputtarget><optional> filename and path
-1.1.1. <required> URL
+2. pget - Downloads File from the Internet
+
+2.1. <outputtarget><optional> filename and path
+  
+2.1.1. <required> URL
+  
 FORMAT:pget||outputtarget||url
+
 example:pget||c:\temp\myfile.7z||https://test.test/myfile.7z
+
 or
+
 FORMAT:pget||url
+
 example:pget||https://test.test/test.txt
 
 15. loadModules - Loads Modules so the Parser can use these commands (which are not part of the standard commands
-  15.1. <required> first Module to load
-    15.1.x. all other Modules to load sperated by ||
-      FORMAT:loadModules||Module1||Module2||...
-      example:loadModules||modbus||modusb
+
+15.1. <required> first Module to load
+  
+15.1.x. all other Modules to load sperated by ||
+
+FORMAT:loadModules||Module1||Module2||...
+
+example:loadModules||modbus||modusb
 
 17. hook - Hooks Functions (Mouse and Keyboard support atm). Has subcommands
+
 hook||<required subcommand>||<required first argument>||<required second argument if subcommand is either kbfunc or msfunc>
+
 17.1. kb - Subcommand for hooking Keyboard
+
 17.1.1. - boolean: Hook(true) or Unhook(false) the Keyboard
+
 17.2. ms - Subcommand for hooking mouse
+
 17.3. kbfunc - sets hook Callback. If no Callback is set the command only blocks the input of the keyboard until it is unhooked or program closed
+
 17.3.1. Path to DLL with HOOKCALLBACK Function
+
 17.3.1.1. Symbolname for dynamic runtime loading
+
 17.4. msfun . set hook Callback for Mouse. If no Callback is set the command only blocks the input of Mouse until it is unhooked or program closed.
+
 17.4.1. Path to DLL with HOOKCALLBACK Function
+
 17.4.1.1. Symbolname for dynamic runtime loading
 
