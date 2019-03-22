@@ -44,10 +44,10 @@ FORMAT:pget||url
 example:pget||https://test.test/test.txt
 
 15. loadModules - Loads Modules so the Parser can use these commands (which are not part of the standard commands
-15.1. <required> first Module to load
-15.1.x. all other Modules to load sperated by ||
-FORMAT:loadModules||Module1||Module2||...
-example:loadModules||modbus||modusb
+  15.1. <required> first Module to load
+    15.1.x. all other Modules to load sperated by ||
+      FORMAT:loadModules||Module1||Module2||...
+      example:loadModules||modbus||modusb
 
 17. hook - Hooks Functions (Mouse and Keyboard support atm). Has subcommands
 hook||<required subcommand>||<required first argument>||<required second argument if subcommand is either kbfunc or msfunc>
