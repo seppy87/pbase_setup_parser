@@ -1,0 +1,82 @@
+[INFO]19/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]19/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]19/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]19/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[ERROR] 21/03 bool __cdecl InstallHook(void) ON LINE 29 with Message: ERROR - HOOK FAILED
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[ERROR] 21/03 bool __cdecl InstallHook(void) ON LINE 29 with Message: ERROR - HOOK FAILED
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE
+[INFO]21/03 void __cdecl MainWindow::initialize(class Poco::Util::Application &) INITIALIZATION
+[INFO]21/03 void __cdecl MainWindow::uninitialize(void) UNINITIALIZE

@@ -1,0 +1,8 @@
+﻿  MainWindow.cpp
+  standalone.cpp
+  Code wird generiert.
+  432 of 1202 functions (35.9%) were compiled, the rest were copied from previous compilation.
+    229 functions were new in current compilation
+    77 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  POCO_SETUP_PARSER.vcxproj -> C:\Users\User\source\repos\POCO_SETUP_PARSER\x64\Release\POCO_SETUP_PARSER.exe
