@@ -29,8 +29,11 @@ First Word is the Command and will be followed but subcommand (if existant) and/
 COMMANDS in INSTRUCTION FILE:
 
 1 WRITE - DISPLAYS Text in Console or file (File not SUPPORTED)
+
 1.1. <target> - Specifies target can be cout or file
+  
 1.1.1 <text> - the text which will be written
+ 
 Format:write||TARGET||TEXT
 example:write||cout||TEXT TO DISPLAY
 
