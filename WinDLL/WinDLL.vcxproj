@@ -130,6 +130,7 @@
     <ClInclude Include="config.hpp" />
     <ClInclude Include="hookThread.h" />
     <ClInclude Include="MouseHookThread.h" />
+    <ClInclude Include="thirdparty\WinReg.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hookThread.cpp" />

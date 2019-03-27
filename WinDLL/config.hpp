@@ -9,6 +9,7 @@
 
 #include<functional>
 #include<Windows.h>
+#include<map>
 
 namespace hook {
 	using Callback = std::function<LRESULT(int, WPARAM, LPARAM)>;
